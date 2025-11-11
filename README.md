@@ -1,2 +1,2 @@
-# programmieren_lernen
-Hallo Freunde! Hier lerne ich Python!
+# Python lernen 🐍
+Hier sind ein paar Projekte durch die ich versuche Python programmieren zu lernen...
